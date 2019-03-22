@@ -68,7 +68,7 @@
 下载仓库中的  **wps-office** 字体库
 
 ```
-# 将下载的 wps-office 放到`/usr/share/fonts/`目录下
+# 将从仓库下载后的 wps-office 放到`/usr/share/fonts/`目录下
 sudo cp wps-office /usr/share/fonts/
 ```
 
