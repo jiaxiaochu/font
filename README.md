@@ -5,7 +5,7 @@
 - 在`ubuntu`下执行以下命令即可完成安装（我的工作环境是Ubuntu）。
 
 ```bash
-	git clone https://github.com/jiaxiaochu/font.git && cd program_font && ./install.sh
+	git clone https://github.com/jiaxiaochu/font.git && cd font && ./install.sh
 ```
 
 - Windows下你只需要将字体文件复制到`C:\Windows\Fonts`文件夹就能完成安装。
